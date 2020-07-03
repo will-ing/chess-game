@@ -6,10 +6,10 @@ authors = ["will-ing <will-ing@github.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-numpy = "^1.19.0"
 matplotlib = "^3.2.2"
 jupyterlab = "^2.1.5"
 pylint = "^2.5.3"
+numpy = "^1.19.0"
 
 [tool.poetry.dev-dependencies]
 
